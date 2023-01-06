@@ -1,0 +1,73 @@
+@import url('https://fonts.googleapis.com/css2?family=Rowdies:wght@300&display=swap');
+*{
+    margin: 0px;
+}
+
+ header{
+    background-color: #E5E5E5;
+    text-align: center;
+}
+
+section{
+    margin-top: 80px;
+}
+
+h1, section h3{
+    text-transform: uppercase;
+    color: #00530077;
+    font-size: 35px;
+    background-color: #C4C4C4;
+    letter-spacing: 4px;
+}
+
+
+section h3{ 
+    font-size: 20px;
+    margin-bottom: 10px;
+    padding: 3px 10px;
+}
+
+li{
+    font-size: 15px;
+  
+}
+
+li p{
+    margin-bottom: 15px;
+}
+
+.item{
+    margin-top: 10px;
+}
+
+.categorias{
+    font-weight: bold;
+    font-style:font-family 'Rowdies', cursive;
+}
+
+.negritas{
+    font-weight: bold;
+    margin-right: 4px;
+}
+
+.espacio{
+    margin-left: 73px;
+}
+
+footer {
+    text-align: center;
+    background-color: #00530077;
+    color: white;
+    font-size:20px;
+    text-transform: uppercase;
+    padding: 10px;
+    margin-top: 70px;
+    
+}
+
+footer i{
+    margin-left: 20px;
+  }
+
+
+    
